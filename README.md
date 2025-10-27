@@ -1,81 +1,68 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Micaiah-C/Micaiah-C/main/assets/header.png" alt="Header Image" width="100%"/>
-</div>
+# 👋 Hallo, ich bin Duncan Scholle
 
-# &#x1F44B; Hallo, ich bin Duncan Scholle
+![Focus](https://img.shields.io/badge/Focus-Data%20Science-blue?style=flat-square)
+![Role](https://img.shields.io/badge/Role-SHK%20Tutor%20%40%20FH%20Dortmund-5936d2?style=flat-square)
+![Location](https://img.shields.io/badge/Based_in-Dortmund%2C%20Germany-ff6f3c?style=flat-square)
+![Email](https://img.shields.io/badge/Contact-duncanscholle%40outlook.com-0a66c2?style=flat-square)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-duncanscholle-0a66c2?style=flat-square)
 
-**Data Science Student | AI Engineer | Full-Stack Developer**
+**Data Science Student&nbsp;| AI Engineer&nbsp;| Full-Stack Developer**
 
-Ich bin Duncan, ein Data Science Student an der **FH Dortmund**, der leidenschaftlich gerne intelligente, sichere und vor allem **funktionierende Anwendungen von Anfang bis Ende (E2E)** entwickelt. Mein Fokus liegt auf der Synergie von **Machine Learning, AI Engineering und robuster Softwareentwicklung**, um datengetriebene L&ouml;sungen in die Produktion zu bringen.
+Ich entwickle datengetriebene Anwendungen von der Idee bis zum produktiven Einsatz. Als Data-Science-Student an der **FH Dortmund** verbinde ich Machine Learning, Software Engineering und sichere Deployments, um Forschungsergebnisse in robuste Lösungen zu überführen.
 
 ---
 
-## &#x1F52C; Forschung &amp; AI Engineering im Fokus
-
-Meine Arbeit konzentriert sich darauf, akademische Forschung in praktische, skalierbare Software zu &uuml;berf&uuml;hren.
+## 🔬 Forschung & AI Engineering im Fokus
 
 | Rolle | Schwerpunkt |
 | :--- | :--- |
-| **SHK (Wissenschaftliche Hilfskraft)** | Aktive Mitarbeit an Forschungsprojekten in Kooperation mit anderen Universit&auml;ten. Fokus auf **statistische Modelle zur Optimierung von Logistik-Teilen** und die Entwicklung von **Simulationsmodellen** zur Entscheidungsunterst&uuml;tzung. (Siehe z.B. [dieses Paper](https://conferences.enbis.org/event/63/contributions/948/)). |
-| **AI Engineering** | Ich verbinde Machine Learning mit Backend-Engineering, um **deploybare, sichere und erkl&auml;rbare KI-Services** zu entwickeln. Mein Ziel ist es, ethische KI-L&ouml;sungen von der Konzeption bis zum produktiven Einsatz zu begleiten. |
-| **Praxis-Erfahrung** | Ehemaliger Werkstudent bei w3logistics AG (WMS-Entwicklung). Verantwortlich f&uuml;r die **Weiterentwicklung und Wartung** des firmeneigenen Warehouse Management Systems (WMS), inklusive **Unit-Tests, Fehleranalyse und direkter Kundenabstimmung** (auch vor Ort in den L&auml;gern). Starke Erfahrung in **Java, C#, C++, SQL und JavaScript**. |
+| **SHK (Wissenschaftliche Hilfskraft)** | Mitarbeit an Forschungsprojekten mit externen Hochschulen. Aufbau statistischer Modelle zur Optimierung von Logistik-Teilen und Entwicklung von Simulationsmodellen als Entscheidungstools (u. a. [Paper](https://conferences.enbis.org/event/63/contributions/948/)). |
+| **AI Engineering** | End-to-end KI-Services mit Fokus auf Sicherheit, Erklärbarkeit und Monitoring. Ziel: verantwortungsvolle KI von der Konzeption bis zum Deployment begleiten. |
+| **Praxis-Erfahrung** | Werkstudent bei w3logistics AG (WMS-Entwicklung). Weiterentwicklung und Wartung eines Warehouse-Management-Systems inkl. Unit-Tests, Fehleranalyse sowie Abstimmungen mit Kund:innen vor Ort. Tech-Stack: **Java, C#, C++, SQL, JavaScript**. |
 
 ---
 
-## &#x1F6E0; Skills Snapshot (Meine Werkzeuge)
+## 🛠️ Skills Snapshot
 
-Ich verf&uuml;ge &uuml;ber eine breite Palette an F&auml;higkeiten, die von tiefgreifendem Verst&auml;ndnis f&uuml;r Algorithmen bis hin zu modernen Deployment-Techniken reichen.
-
-| Kategorie | Technologien &amp; Konzepte |
+| Kategorie | Technologien & Konzepte |
 | :--- | :--- |
-| **Data Science &amp; ML** | `Python` &bull; `R` &bull; `TensorFlow` &bull; `scikit-learn` &bull; `pandas` &bull; `numpy` &bull; `Applied ML/Deep Learning` &bull; `Statistical Modeling` |
-| **AI Engineering &amp; BI** | `MLOps Concepts` &bull; `Streamlit` &bull; `Jupyter` &bull; `Power BI` &bull; `Data Storytelling` &bull; `Explainable AI (XAI)` |
-| **Backend &amp; Data** | `Java` &bull; `Spring Boot` &bull; `REST APIs` &bull; **SQL** (`PostgreSQL`, `MySQL`, `SAP HANA`) &bull; **NoSQL** (`Cassandra`) &bull; `Data Warehousing` |
-| **Frontend &amp; UX** | `React` &bull; `HTML/CSS/JS` &bull; `Responsive Design` &bull; `UI/UX Principles` |
-| **Software Engineering** | `C/C++` &bull; `C#` &bull; `OOP` &bull; `SOLID Principles` &bull; `Git/CI Workflows` &bull; `Algorithms &amp; Data Structures` |
-| **Security &amp; Systems** | `Cryptography Basics` &bull; `Mobile Security` &bull; `Networking` &bull; `Operating Systems` &bull; `Secure-by-Default Patterns` |
+| **Data Science & ML** | `Python` • `R` • `TensorFlow` • `scikit-learn` • `pandas` • `numpy` • Applied ML/Deep Learning • Statistical Modeling |
+| **AI Engineering & BI** | `MLOps` • `Streamlit` • `Jupyter` • `Power BI` • Data Storytelling • Explainable AI (XAI) |
+| **Backend & Data** | `Java` • `Spring Boot` • `REST APIs` • **SQL** (`PostgreSQL`, `MySQL`, `SAP HANA`) • **NoSQL** (`Cassandra`) • Data Warehousing |
+| **Frontend & UX** | `React` • `HTML/CSS/JS` • Responsive Design • UI/UX Principles |
+| **Software Engineering** | `C/C++` • `C#` • OOP • SOLID Principles • Git/CI Workflows • Algorithms & Data Structures |
+| **Security & Systems** | Cryptography Basics • Mobile Security • Networking • Operating Systems • Secure-by-Default Patterns |
 
 ---
 
-## &#x2728; Ausgew&auml;hlte Projekte
-
-Hier sind einige Projekte, die meine Bandbreite zeigen &ndash; von ML-Deployment bis hin zu Full-Stack-Sicherheit:
+## ✨ Ausgewählte Projekte
 
 ### [AI-Image-Detector](https://github.com/realr4an/AI-Image-Detector)
-> **Thema:** Deep Learning &amp; Computer Vision
-> Detektiert KI-generierte Gesichter (Deepfakes) mittels **YOLO-basierter Extraktion** und **TensorFlow-Klassifikatoren**. Das Deployment erfolgt &uuml;ber ansprechende **Streamlit Dashboards**. Ein Beispiel f&uuml;r die Umwandlung eines komplexen ML-Modells in eine nutzbare Anwendung.
+Deep-Learning-Pipeline, die KI-generierte Gesichter identifiziert. Kombination aus YOLO-basierter Face-Extraktion, TensorFlow-Klassifikatoren und Streamlit-Dashboards – demonstriert den Weg vom Modell zur produktiven Anwendung.
 
 ### [SecureTextEditor](https://github.com/realr4an/SecureTextEditor)
-> **Thema:** Full-Stack-Sicherheit &amp; Dependable Infrastructure
-> Ein sicherer Dokumenteneditor mit einem **React** Frontend und einem **Spring Boot** Backend, der erweiterte **Verschl&uuml;sselungs- und Hashing-Workflows** bietet. Demonstriert die Anwendung von **Secure-by-Default**-Mustern.
+Full-Stack-Projekt mit React-Frontend und Spring-Boot-Backend. Bietet verschlüsselte Dokumentenbearbeitung, Hashing-Workflows und zeigt, wie Secure-by-Default-Prinzipien in der Praxis aussehen.
 
 ### [LeagueOfLegendsMinimapTracker](https://github.com/realr4an/LeagueOfLegendsMinimapTracker)
-> **Thema:** Computer Vision &amp; Gamification
-> Automatische Verfolgung von Minimap-Ereignissen in League of Legends, um strategische Entscheidungsfindung f&uuml;r Spieler zu verbessern.
+Computer-Vision-Tool, das Minimap-Ereignisse in League of Legends erfasst und Spielenden datenbasierte Einblicke für bessere Entscheidungen liefert.
 
 ---
 
-## &#x1F4DA; Bildung &amp; Fundament
-
-Mein Studium an der FH Dortmund bietet ein tiefes Fundament in den Bereichen Informatik und Data Science.
+## 📚 Bildung & Fundament
 
 ### Relevante Module (Auszug)
-Meine Kenntnisse basieren auf einem soliden Curriculum, das sowohl theoretische Informatik als auch angewandtes Machine Learning abdeckt:
-
-- **Data Science &amp; ML:** Applied Machine Learning, Artificial Intelligence, Data Science Databases, Data Visualization, Mathematics for IT Specialists 4 (Data Science).
-- **Software Engineering &amp; Systeme:** Software Engineering 1 &amp; 2, Algorithms and Data Structures, Database Management Systems 1, Web Technologies, Computer Architecture and Operating Systems 1 &amp; 2.
-- **Sicherheit &amp; Recht:** Mobile Security (Advanced Information Security), Seminar (Network Security), IT Law.
+- **Data Science & ML:** Applied Machine Learning, Artificial Intelligence, Data Science Databases, Data Visualization, Mathematics for IT Specialists 4 (Data Science)
+- **Software Engineering & Systeme:** Software Engineering 1 & 2, Algorithms and Data Structures, Database Management Systems 1, Web Technologies, Computer Architecture and Operating Systems 1 & 2
+- **Sicherheit & Recht:** Mobile Security (Advanced Information Security), Seminar (Network Security), IT Law
 
 ### Hintergrund
-- **B.Sc. Data Science**, FH Dortmund (2022 &ndash; heute)
-- Zuvor: Informatik an der TU Dortmund (2021 &ndash; 2022)
-- Information Technology Fokus, Hellweg-Berufskolleg Unna (2018 &ndash; 2021)
+- **B.Sc. Data Science**, FH Dortmund (2022 – heute)
+- **Informatik**, TU Dortmund (2021 – 2022)
+- **Information Technology**, Hellweg-Berufskolleg Unna (2018 – 2021)
 
 ---
 
-## &#x1F4EC; Kontakt &amp; Vernetzung
-
-Lassen Sie uns in Kontakt treten! Ich freue mich immer &uuml;ber den Austausch zu neuen Projekten, ethischer KI oder Full-Stack-Herausforderungen.
+## 🤝 Kontakt & Vernetzung
 
 | Plattform | Link |
 | :--- | :--- |
@@ -86,15 +73,13 @@ Lassen Sie uns in Kontakt treten! Ich freue mich immer &uuml;ber den Austausch z
 
 <div align="center">
   <a href="https://github.com/realr4an">
-  <img src="https://komarev.com/ghpvc/?username=realr4an&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="realr4an's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=realr4an&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="realr4an profile views badge" />
   </a>
 </div>
 
-<br>
-<br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow Badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React Badge" />
 </div>
