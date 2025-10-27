@@ -4,32 +4,36 @@
 
 # 👋 Hallo, ich bin Duncan Scholle
 
-**Data Science Student | Full-Stack Engineer | End-to-End Application Builder**
+**Data Science Student | AI Engineer | Full-Stack Developer**
 
-Ich bin Duncan, ein Data Science Student an der **FH Dortmund**, der leidenschaftlich gerne intelligente, sichere und vor allem **funktionierende Anwendungen von Anfang bis Ende** entwickelt. Mein Fokus liegt auf der Synergie von **Machine Learning und Backend Engineering**, um robuste Infrastrukturen mit benutzerfreundlichen Oberflächen zu schaffen.
+Ich bin Duncan, ein Data Science Student an der **FH Dortmund**, der leidenschaftlich gerne intelligente, sichere und vor allem **funktionierende Anwendungen von Anfang bis Ende (E2E)** entwickelt. Mein Fokus liegt auf der Synergie von **Machine Learning, AI Engineering und robuster Softwareentwicklung**, um datengetriebene Lösungen in die Produktion zu bringen.
 
 ---
 
-## 🚀 Mein Fokus & Quick Facts
+## 🔬 Forschung & AI Engineering im Fokus
 
-| Bereich | Beschreibung |
+Meine Arbeit konzentriert sich darauf, akademische Forschung in praktische, skalierbare Software zu überführen.
+
+| Rolle | Schwerpunkt |
 | :--- | :--- |
-| **🧠 Data Science & ML** | Von der Datenanalyse bis zum Deployment: Ich nutze Python (TensorFlow, scikit-learn) und R, um datengetriebene Entscheidungen zu ermöglichen und ethische KI-Lösungen zu entwickeln. |
-| **💻 Backend & Infrastruktur** | Ich baue skalierbare und sichere Backends mit **Spring Boot** und beherrsche den Umgang mit relationalen (SQL: MySQL, PostgreSQL, SAP HANA) und NoSQL (Cassandra) Datenbanken. |
-| **🛠️ Hands-On Erfahrung** | Als SHK an der FH Dortmund unterstütze ich Studierende in Algorithmen und Programmierung. Zuvor habe ich als Werkstudent bei w3logistics AG produktive Web-Features für Logistikplattformen ausgeliefert. |
-| **💡 Philosophie** | Ich liebe es, akademische Theorie in praktische, deploybare Tools zu verwandeln und setze mich für **Secure-by-Default**-Muster in der Softwareentwicklung ein. |
+| **SHK (Wissenschaftliche Hilfskraft)** | Aktive Mitarbeit an Forschungsprojekten in Kooperation mit anderen Universitäten. Fokus auf **statistische Modelle zur Optimierung von Logistik-Teilen** und die Entwicklung von **Simulationsmodellen** zur Entscheidungsunterstützung. (Siehe z.B. [dieses Paper](https://conferences.enbis.org/event/63/contributions/948/)). |
+| **AI Engineering** | Ich verbinde Machine Learning mit Backend-Engineering, um **deploybare, sichere und erklärbare KI-Services** zu entwickeln. Mein Ziel ist es, ethische KI-Lösungen von der Konzeption bis zum produktiven Einsatz zu begleiten. |
+| **Praxis-Erfahrung** | Als ehemaliger Werkstudent bei w3logistics AG habe ich produktive Web-Features für Logistikplattformen ausgeliefert und verstehe die Anforderungen an **dependable infrastructure**. |
 
 ---
 
 ## 🛠️ Skills Snapshot (Meine Werkzeuge)
 
+Ich verfüge über eine breite Palette an Fähigkeiten, die von tiefgreifendem Verständnis für Algorithmen bis hin zu modernen Deployment-Techniken reichen.
+
 | Kategorie | Technologien & Konzepte |
 | :--- | :--- |
-| **Data Science & ML** | `Python` • `R` • `TensorFlow` • `scikit-learn` • `pandas` • `numpy` • `Data Visualization` |
-| **Backend & Data** | `Java` • `Spring Boot` • `REST APIs` • `SQL` (`PostgreSQL`, `MySQL`, `SAP HANA`) • `Cassandra` • `Data Modeling` |
-| **Frontend & UX** | `React` • `Streamlit` • `HTML/CSS/JS` • `Responsive Design` • `UI/UX Principles` |
+| **Data Science & ML** | `Python` • `R` • `TensorFlow` • `scikit-learn` • `pandas` • `numpy` • `Applied ML/Deep Learning` • `Statistical Modeling` |
+| **AI Engineering & BI** | `MLOps Concepts` • `Streamlit` • `Jupyter` • `Power BI` • `Data Storytelling` • `Explainable AI (XAI)` |
+| **Backend & Data** | `Java` • `Spring Boot` • `REST APIs` • **SQL** (`PostgreSQL`, `MySQL`, `SAP HANA`) • **NoSQL** (`Cassandra`) • `Data Warehousing` |
+| **Frontend & UX** | `React` • `HTML/CSS/JS` • `Responsive Design` • `UI/UX Principles` |
 | **Software Engineering** | `C/C++` • `C#` • `OOP` • `SOLID Principles` • `Git/CI Workflows` • `Algorithms & Data Structures` |
-| **Security & Systems** | `Cryptography Basics` • `Networking` • `Operating Systems` • `Information Security` |
+| **Security & Systems** | `Cryptography Basics` • `Mobile Security` • `Networking` • `Operating Systems` • `Secure-by-Default Patterns` |
 
 ---
 
@@ -38,12 +42,12 @@ Ich bin Duncan, ein Data Science Student an der **FH Dortmund**, der leidenschaf
 Hier sind einige Projekte, die meine Bandbreite zeigen – von ML-Deployment bis hin zu Full-Stack-Sicherheit:
 
 ### [AI-Image-Detector](https://github.com/realr4an/AI-Image-Detector)
-> **Thema:** Ethische KI & Forensik
-> Detektiert KI-generierte Gesichter (Deepfakes) mittels **YOLO-basierter Extraktion** und **TensorFlow-Klassifikatoren**. Das Deployment erfolgt über ansprechende **Streamlit Dashboards**.
+> **Thema:** Deep Learning & Computer Vision
+> Detektiert KI-generierte Gesichter (Deepfakes) mittels **YOLO-basierter Extraktion** und **TensorFlow-Klassifikatoren**. Das Deployment erfolgt über ansprechende **Streamlit Dashboards**. Ein Beispiel für die Umwandlung eines komplexen ML-Modells in eine nutzbare Anwendung.
 
 ### [SecureTextEditor](https://github.com/realr4an/SecureTextEditor)
-> **Thema:** Full-Stack-Sicherheit
-> Ein sicherer Dokumenteneditor mit einem **React** Frontend und einem **Spring Boot** Backend, der erweiterte **Verschlüsselungs- und Hashing-Workflows** bietet. Ein Beispiel für Secure-by-Default-Entwicklung.
+> **Thema:** Full-Stack-Sicherheit & Dependable Infrastructure
+> Ein sicherer Dokumenteneditor mit einem **React** Frontend und einem **Spring Boot** Backend, der erweiterte **Verschlüsselungs- und Hashing-Workflows** bietet. Demonstriert die Anwendung von **Secure-by-Default**-Mustern.
 
 ### [LeagueOfLegendsMinimapTracker](https://github.com/realr4an/LeagueOfLegendsMinimapTracker)
 > **Thema:** Computer Vision & Gamification
@@ -51,17 +55,21 @@ Hier sind einige Projekte, die meine Bandbreite zeigen – von ML-Deployment bis
 
 ---
 
-## 📚 Bildung & Aktuelle Exploration
+## 📚 Bildung & Fundament
 
-### Studium
+Mein Studium an der FH Dortmund bietet ein tiefes Fundament in den Bereichen Informatik und Data Science.
+
+### Relevante Module (Auszug)
+Meine Kenntnisse basieren auf einem soliden Curriculum, das sowohl theoretische Informatik als auch angewandtes Machine Learning abdeckt:
+
+- **Data Science & ML:** Applied Machine Learning, Artificial Intelligence, Data Science Databases, Data Visualization, Mathematics for IT Specialists 4 (Data Science).
+- **Software Engineering & Systeme:** Software Engineering 1 & 2, Algorithms and Data Structures, Database Management Systems 1, Web Technologies, Computer Architecture and Operating Systems 1 & 2.
+- **Sicherheit & Recht:** Mobile Security (Advanced Information Security), Seminar (Network Security), IT Law.
+
+### Hintergrund
 - **B.Sc. Data Science**, FH Dortmund (2022 – heute)
 - Zuvor: Informatik an der TU Dortmund (2021 – 2022)
 - Information Technology Fokus, Hellweg-Berufskolleg Unna (2018 – 2021)
-
-### 🔭 Aktuell im Fokus
-- **Explainable AI (XAI)**: Entwicklung von deploybaren KI-Services mit Guardrails und nachvollziehbaren Entscheidungen.
-- **Data Storytelling**: Techniken, um komplexe Daten-Insights in klare, geschäftsrelevante Entscheidungen zu übersetzen.
-- **Web-Sicherheit**: Vertiefung von Mustern zur Härtung von Full-Stack-Anwendungen.
 
 ---
 
@@ -93,4 +101,3 @@ Lassen Sie uns in Kontakt treten! Ich freue mich immer über den Austausch zu ne
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 -->
-
