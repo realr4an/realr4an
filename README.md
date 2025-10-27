@@ -18,7 +18,7 @@ Meine Arbeit konzentriert sich darauf, akademische Forschung in praktische, skal
 | :--- | :--- |
 | **SHK (Wissenschaftliche Hilfskraft)** | Aktive Mitarbeit an Forschungsprojekten in Kooperation mit anderen Universitäten. Fokus auf **statistische Modelle zur Optimierung von Logistik-Teilen** und die Entwicklung von **Simulationsmodellen** zur Entscheidungsunterstützung. (Siehe z.B. [dieses Paper](https://conferences.enbis.org/event/63/contributions/948/)). |
 | **AI Engineering** | Ich verbinde Machine Learning mit Backend-Engineering, um **deploybare, sichere und erklärbare KI-Services** zu entwickeln. Mein Ziel ist es, ethische KI-Lösungen von der Konzeption bis zum produktiven Einsatz zu begleiten. |
-| **Praxis-Erfahrung** | Als ehemaliger Werkstudent bei w3logistics AG habe ich produktive Web-Features für Logistikplattformen ausgeliefert und verstehe die Anforderungen an **dependable infrastructure**. |
+| **Praxis-Erfahrung** | Ehemaliger Werkstudent bei w3logistics AG (WMS-Entwicklung). Verantwortlich für die **Weiterentwicklung und Wartung** des firmeneigenen Warehouse Management Systems (WMS), inklusive **Unit-Tests, Fehleranalyse und direkter Kundenabstimmung** (auch vor Ort in den Lägern). Starke Erfahrung in **Java, C#, C++, SQL und JavaScript**. |
 
 ---
 
