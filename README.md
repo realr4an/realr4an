@@ -1,7 +1,7 @@
 # 👋 Hallo, ich bin Duncan Scholle
 
 ![Focus](https://img.shields.io/badge/Focus-Data%20Science-blue?style=flat-square)
-![Role](https://img.shields.io/badge/Role-SHK%20Tutor%20%40%20FH%20Dortmund-5936d2?style=flat-square)
+![Role](https://img.shields.io/badge/Role-SHK%20%40%20FH%20Dortmund-5936d2?style=flat-square)
 ![Location](https://img.shields.io/badge/Based_in-Dortmund%2C%20Germany-ff6f3c?style=flat-square)
 ![Email](https://img.shields.io/badge/Contact-duncanscholle%40outlook.com-0a66c2?style=flat-square)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-duncanscholle-0a66c2?style=flat-square)
