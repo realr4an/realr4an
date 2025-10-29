@@ -13,7 +13,7 @@ I'm a **Data Science Student**, **AI Engineer**, and **Full Stack Developer** ba
 I enjoy creating intelligent, data-driven applications that connect research and real-world problems.  
 
 Currently, I'm working as a **Research Assistant at FH Dortmund**, where I develop simulation and statistical models for logistics optimization and AI-based decision tools.  
-My interests include **Machine Learning**, **MLOps**, and **secure AI deployment** — turning prototypes into production-ready systems that are explainable and robust.
+My interests include **Machine Learning**, **MLOps**, and **secure AI deployment**, focusing on transforming prototypes into production ready systems that are explainable and reliable.
 
 Outside of research, I love exploring new tech stacks, designing intuitive interfaces, and integrating AI into end-to-end applications.  
 If you want to learn more about my work, check out my portfolio:  
@@ -59,6 +59,6 @@ If you want to learn more about my work, check out my portfolio:
 
 <div align="center">
 
-### 💡 "Data is just potential — intelligence makes it meaningful."
+### 💡 "Data is just potential, intelligence makes it meaningful."
 
 </div>
