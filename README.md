@@ -52,7 +52,7 @@ If you want to learn more about my work, check out my portfolio:
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
   <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=realr4an&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=realr4an&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </details>
 
 ---
